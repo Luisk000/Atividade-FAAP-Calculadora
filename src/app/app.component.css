@@ -1,0 +1,25 @@
+.btn-dark, .btn-info, .btn-primary{
+  width: 100px;
+  margin:2px
+}
+
+.btn-success{
+  width:204px;
+  margin:2px;
+}
+
+input{
+  width: 308px;
+  margin:2px;
+  margin-top: 10px;
+}
+
+.card, .row{
+  margin-left: 10px;
+}
+
+.card{
+  margin-top: 10px;
+  width: 334px;
+  height: 312px;
+}
